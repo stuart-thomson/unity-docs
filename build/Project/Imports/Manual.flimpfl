@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProjectImport
+  AutoSync="true"
+  LastImport="2020-03-04T11:51:52.7616722+00:00"
+  IncludePattern="*.*">
+  <Files>
+    <Url
+      Source="file:///C:/Flare/master-test/Manual/Manual.flprj"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Manual.flprj" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles>
+    <Url
+      Source="../../../Manual/Content/feature-home.htm"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Content/feature-home.htm" />
+    <Url
+      Source="../../../Manual/Content/Feature1.htm"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Content/Feature1.htm" />
+    <Url
+      Source="../../../Manual/Content/Feature2.htm"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Content/Feature2.htm" />
+    <Url
+      Source="../../../Manual/Content/Feature3.htm"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Content/Feature3.htm" />
+    <Url
+      Source="../../../Manual/Content/Features.htm"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Content/Features.htm" />
+    <Url
+      Source="../../../Manual/Project/TOCs/ManualTOC.fltoc"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Project/TOCs/ManualTOC.fltoc" />
+    <Url
+      Source="../../../Manual/Content/Template Instructions.pdf"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Content/Template Instructions.pdf" />
+    <Url
+      Source="../../../Manual/Content/Resources/Images/Hero-Image.png"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Content/Resources/Images/Hero-Image.png" />
+    <Url
+      Source="../../../Manual/Content/Resources/Images/icon-checkbox.png"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Content/Resources/Images/icon-checkbox.png" />
+    <Url
+      Source="../../../Manual/Content/Resources/Images/icon-download.png"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Content/Resources/Images/icon-download.png" />
+    <Url
+      Source="../../../Manual/Content/Resources/Images/icon-forum.png"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Content/Resources/Images/icon-forum.png" />
+    <Url
+      Source="../../../Manual/Content/Resources/Images/icon-gears.png"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Content/Resources/Images/icon-gears.png" />
+    <Url
+      Source="../../../Manual/Content/Resources/Images/icon-pdfs.png"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Content/Resources/Images/icon-pdfs.png" />
+    <Url
+      Source="../../../Manual/Content/Resources/Images/Icon-Popular-Topics.png"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Content/Resources/Images/Icon-Popular-Topics.png" />
+    <Url
+      Source="../../../Manual/Content/Resources/Images/icon-videos.png"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Content/Resources/Images/icon-videos.png" />
+    <Url
+      Source="../../../Manual/Content/Resources/Images/Logo.png"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Content/Resources/Images/Logo.png" />
+    <Url
+      Source="../../../Manual/Content/Resources/Images/minus.png"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Content/Resources/Images/minus.png" />
+    <Url
+      Source="../../../Manual/Content/Resources/Images/plus.png"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Content/Resources/Images/plus.png" />
+    <Url
+      Source="../../../Manual/Content/Resources/MasterPages/Home-Page.flmsp"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Content/Resources/MasterPages/Home-Page.flmsp" />
+    <Url
+      Source="../../../Manual/Content/Resources/MasterPages/Other-Topics.flmsp"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Content/Resources/MasterPages/Other-Topics.flmsp" />
+    <Url
+      Source="../../../Manual/Content/Resources/Stylesheets/Styles.css"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Content/Resources/Stylesheets/Styles.css" />
+    <Url
+      Source="../../../Manual/Content/Resources/TableStyles/Alternate-Row-Color.css"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Content/Resources/TableStyles/Alternate-Row-Color.css" />
+    <Url
+      Source="../../../Manual/Project/ConditionTagSets/Default.flcts"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Project/ConditionTagSets/Default.flcts" />
+    <Url
+      Source="../../../Manual/Project/Skins/Side-Navigation.flskn"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Project/Skins/Side-Navigation.flskn" />
+    <Url
+      Source="../../../Manual/Project/Targets/HTML5.fltar"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Project/Targets/HTML5.fltar" />
+    <Url
+      Source="../../../Manual/Project/VariableSets/General.flvar"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Project/VariableSets/General.flvar" />
+  </CollectedSourceFiles>
+  <SkippedSourceFiles>
+    <Url
+      Source="../../../Manual/Content/Template Instructions.pdf"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Content/Template Instructions.pdf" />
+    <Url
+      Source="../../../Manual/Content/Resources/Images/Hero-Image.png"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Content/Resources/Images/Hero-Image.png" />
+    <Url
+      Source="../../../Manual/Content/Resources/Images/icon-checkbox.png"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Content/Resources/Images/icon-checkbox.png" />
+    <Url
+      Source="../../../Manual/Content/Resources/Images/icon-download.png"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Content/Resources/Images/icon-download.png" />
+    <Url
+      Source="../../../Manual/Content/Resources/Images/icon-forum.png"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Content/Resources/Images/icon-forum.png" />
+    <Url
+      Source="../../../Manual/Content/Resources/Images/icon-gears.png"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Content/Resources/Images/icon-gears.png" />
+    <Url
+      Source="../../../Manual/Content/Resources/Images/icon-pdfs.png"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Content/Resources/Images/icon-pdfs.png" />
+    <Url
+      Source="../../../Manual/Content/Resources/Images/Icon-Popular-Topics.png"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Content/Resources/Images/Icon-Popular-Topics.png" />
+    <Url
+      Source="../../../Manual/Content/Resources/Images/icon-videos.png"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Content/Resources/Images/icon-videos.png" />
+    <Url
+      Source="../../../Manual/Content/Resources/Images/Logo.png"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Content/Resources/Images/Logo.png" />
+    <Url
+      Source="../../../Manual/Content/Resources/Images/minus.png"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Content/Resources/Images/minus.png" />
+    <Url
+      Source="../../../Manual/Content/Resources/Images/plus.png"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Content/Resources/Images/plus.png" />
+    <Url
+      Source="../../../Manual/Content/Resources/MasterPages/Home-Page.flmsp"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Content/Resources/MasterPages/Home-Page.flmsp" />
+    <Url
+      Source="../../../Manual/Content/Resources/MasterPages/Other-Topics.flmsp"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Content/Resources/MasterPages/Other-Topics.flmsp" />
+    <Url
+      Source="../../../Manual/Content/Resources/Stylesheets/Styles.css"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Content/Resources/Stylesheets/Styles.css" />
+    <Url
+      Source="../../../Manual/Content/Resources/TableStyles/Alternate-Row-Color.css"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Content/Resources/TableStyles/Alternate-Row-Color.css" />
+    <Url
+      Source="../../../Manual/Project/ConditionTagSets/Default.flcts"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Project/ConditionTagSets/Default.flcts" />
+    <Url
+      Source="../../../Manual/Project/Skins/Side-Navigation.flskn"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Project/Skins/Side-Navigation.flskn" />
+    <Url
+      Source="../../../Manual/Project/Targets/HTML5.fltar"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Project/Targets/HTML5.fltar" />
+    <Url
+      Source="../../../Manual/Project/VariableSets/General.flvar"
+      AbsoluteSource="file:///C:/Flare/master-test/Manual/Project/VariableSets/General.flvar" />
+  </SkippedSourceFiles>
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/feature-home.htm"
+      TimeStamp="04/03/2020 09:19:16" />
+    <Url
+      Source="../../Content/Feature1.htm"
+      TimeStamp="01/01/0001 00:00:00" />
+    <Url
+      Source="../../Content/Feature2.htm"
+      TimeStamp="01/01/0001 00:00:00" />
+    <Url
+      Source="../../Content/Feature3.htm"
+      TimeStamp="01/01/0001 00:00:00" />
+    <Url
+      Source="../../Content/Features.htm"
+      TimeStamp="01/01/0001 00:00:00" />
+    <Url
+      Source="../TOCs/ManualTOC.fltoc"
+      TimeStamp="04/03/2020 11:47:03" />
+    <Url
+      Source="../../Content/Template Instructions.pdf"
+      TimeStamp="01/01/0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Images/Hero-Image.png"
+      TimeStamp="01/01/0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Images/icon-checkbox.png"
+      TimeStamp="01/01/0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Images/icon-download.png"
+      TimeStamp="01/01/0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Images/icon-forum.png"
+      TimeStamp="01/01/0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Images/icon-gears.png"
+      TimeStamp="01/01/0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Images/icon-pdfs.png"
+      TimeStamp="01/01/0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Images/Icon-Popular-Topics.png"
+      TimeStamp="01/01/0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Images/icon-videos.png"
+      TimeStamp="01/01/0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Images/Logo.png"
+      TimeStamp="01/01/0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Images/minus.png"
+      TimeStamp="01/01/0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Images/plus.png"
+      TimeStamp="01/01/0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Home-Page.flmsp"
+      TimeStamp="01/01/0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Other-Topics.flmsp"
+      TimeStamp="01/01/0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Styles.css"
+      TimeStamp="01/01/0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/TableStyles/Alternate-Row-Color.css"
+      TimeStamp="01/01/0001 00:00:00" />
+    <Url
+      Source="../ConditionTagSets/Default.flcts"
+      TimeStamp="01/01/0001 00:00:00" />
+    <Url
+      Source="../Skins/Side-Navigation.flskn"
+      TimeStamp="01/01/0001 00:00:00" />
+    <Url
+      Source="../Targets/HTML5.fltar"
+      TimeStamp="03/04/2020 11:38:29" />
+    <Url
+      Source="../VariableSets/General.flvar"
+      TimeStamp="01/01/0001 00:00:00" />
+  </GeneratedFiles>
+</CatapultProjectImport>
