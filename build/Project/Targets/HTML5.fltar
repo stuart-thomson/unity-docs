@@ -6,6 +6,7 @@
   Destinations=""
   GlossaryTermConversion="marked"
   MasterPage="/Content/Resources/MasterPages/Other-Topics.flmsp"
+  DefaultUrl="/Content/api-home.htm"
   ShowMadCapBacklink="true">
   <PrintedOutput
     CollapseMargins="true"
