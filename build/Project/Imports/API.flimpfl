@@ -1,8 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultProjectImport
   AutoSync="true"
-  LastImport="2020-03-04T11:51:52.2620074+00:00"
-  IncludePattern="*.*">
+  LastImport="2020-03-10T10:38:36.5827804+00:00"
+  IncludePattern="*.*;*.htm;*.html;*.fltoc;*.png;*.bmp;*.jpg;*.jpeg;*.tif;*.tiff;*.gif;*.swd;*.emf;*.wmf;*.xaml;*.xps;*.exps;*.hdp;*.wdp;*.dib;*.svg;*.ps;*.eps;*.pdf"
+  DeleteStale="true"
+  DeleteUnreferenced="true">
   <Files>
     <Url
       Source="file:///C:/Flare/master-test/api/api.flprj"
@@ -28,9 +30,6 @@
     <Url
       Source="../../../api/Project/TOCs/API_TOC.fltoc"
       AbsoluteSource="file:///C:/Flare/master-test/api/Project/TOCs/API_TOC.fltoc" />
-    <Url
-      Source="../../../api/Content/Template Instructions.pdf"
-      AbsoluteSource="file:///C:/Flare/master-test/api/Content/Template Instructions.pdf" />
     <Url
       Source="../../../api/Content/Resources/Images/Hero-Image.png"
       AbsoluteSource="file:///C:/Flare/master-test/api/Content/Resources/Images/Hero-Image.png" />
@@ -154,25 +153,22 @@
   <GeneratedFiles>
     <Url
       Source="../../Content/api-home.htm"
-      TimeStamp="04/03/2020 09:19:16" />
+      TimeStamp="03/04/2020 09:19:16" />
     <Url
       Source="../../Content/api/api-1.htm"
-      TimeStamp="04/03/2020 09:19:38" />
+      TimeStamp="03/04/2020 09:19:38" />
     <Url
       Source="../../Content/api/api-2.htm"
-      TimeStamp="04/03/2020 09:19:46" />
+      TimeStamp="03/04/2020 09:19:46" />
     <Url
       Source="../../Content/api/api-3.htm"
-      TimeStamp="04/03/2020 09:19:52" />
+      TimeStamp="03/04/2020 09:19:52" />
     <Url
       Source="../../Content/api/api-4.htm"
-      TimeStamp="04/03/2020 09:20:01" />
+      TimeStamp="03/04/2020 09:20:01" />
     <Url
       Source="../TOCs/API_TOC.fltoc"
-      TimeStamp="04/03/2020 11:47:44" />
-    <Url
-      Source="../../Content/Template Instructions.pdf"
-      TimeStamp="01/01/0001 00:00:00" />
+      TimeStamp="03/04/2020 11:47:44" />
     <Url
       Source="../../Content/Resources/Images/Hero-Image.png"
       TimeStamp="01/01/0001 00:00:00" />
@@ -226,7 +222,7 @@
       TimeStamp="01/01/0001 00:00:00" />
     <Url
       Source="../Targets/HTML5.fltar"
-      TimeStamp="03/04/2020 09:18:27" />
+      TimeStamp="04/03/2020 09:18:27" />
     <Url
       Source="../VariableSets/General.flvar"
       TimeStamp="01/01/0001 00:00:00" />
